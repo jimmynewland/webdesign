@@ -5,3 +5,7 @@ body {
 a:hover {
   text-decoration: none;
 }
+
+p {
+  color: #1B2631;
+}
