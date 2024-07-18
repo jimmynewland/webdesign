@@ -9,3 +9,7 @@ a:hover {
 p {
   color: #1B2631;
 }
+
+.center {
+  text-align: center;
+}
